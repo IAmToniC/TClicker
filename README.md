@@ -1,4 +1,4 @@
-### Sobre o Projeto
+# Sobre o Projeto
 
 O **TClicker** é uma ferramenta de clique automático, pensada para ser rápida e precisa. Seu objetivo é ajudar em tarefas que exigem cliques repetidos, como em jogos ou testes de software, oferecendo uma interface simples e personalizável.
 
