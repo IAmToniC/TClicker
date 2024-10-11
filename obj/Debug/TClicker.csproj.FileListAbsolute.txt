@@ -1,0 +1,10 @@
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\bin\Debug\TClicker.exe.config
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\bin\Debug\TClicker.exe
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\bin\Debug\TClicker.pdb
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\obj\Debug\TClicker.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\obj\Debug\TClicker.Properties.Resources.resources
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\obj\Debug\TClicker.TClicker.resources
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\obj\Debug\TClicker.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\obj\Debug\TClicker.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\obj\Debug\TClicker.exe
+C:\Users\Desktop\Desktop\Projetos\TClicker\TClicker\obj\Debug\TClicker.pdb
