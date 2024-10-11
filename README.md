@@ -1,4 +1,3 @@
-# TClicker
 ![Descrição da Imagem](./images/logo.png)
 
 ### Sobre o Projeto
